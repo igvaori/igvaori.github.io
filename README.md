@@ -6,7 +6,7 @@ El material que aquí aparece es un conjunto de apuntes personales, que comparto
 
 Si hay alguien ineresado en las portadas, las encontraréis en los reposiorios de cada libro, en las carpetas *imprenta*.
 
-Un millón de gracias a Maria Balos por su diseños de las portadas, a Iván por la confección de esta página, a David y Josep por su ayuda con la física (la mía anda ya muy oxidada) y a Reme, por su eneorme paciencia.
+Un millón de gracias a Maria Balos por su diseños de las portadas, a Iván por la confección de esta página, a David y Josep por su ayuda con la física (la mía anda ya muy oxidada) y a Reme, por su enorme paciencia.
 
 ___________
 
