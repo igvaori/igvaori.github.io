@@ -6,6 +6,7 @@ El material que aquí aparece es un conjunto de apuntes personales, que comparto
 
 ___________
 
+
 ## Álgebra Lineal y Geometría (avanzadas) para Bachillerato.
 
 ![](https://github.com/igvaori/algebra-geometria/blob/master/IMPRENTA/muestra.jpg?raw=true)
@@ -18,6 +19,7 @@ Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/alg
 
 __________
 
+
 ## Cálculo Infinitesimal (avanzado) para Bachillerato.
 
 ![](https://github.com/igvaori/calculo-infinitesimal/blob/master/IMPRENTA/muestra.jpg?raw=true)
@@ -29,7 +31,9 @@ Descárgate el libro en A-4 [aquí](https://github.com/igvaori/calculo-infinites
 Descárgate el libro en A-5 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho-A5.pdf)
 
 Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/calculo-infinitesimal)
+
 ____________
+
 
 ## En breve
 
