@@ -2,7 +2,7 @@
 
 Hola soy **Ignacio Vallés Oriola**, físico y profesor jubilado de Matemáticas en educación secundaria.
 
-El material que aquí aparece es un conjunto de apuntes personales, que comparto gratuitamente en la red, basados en mi experiencia como profesor, varios textos citados en los documentos y webs de internet. Si hay algún contenido que no he incluido correctamente, hacédmelo saber por e-mail y lo editaré como se pida.  También se agradecería la comunicación de la detección de cualquier error.
+El material que aquí aparece es un conjunto de apuntes personales, que comparto gratuitamente en la red, basados en mi experiencia como profesor, varios textos citados en los documentos y webs de internet. Si hay algún contenido que no he incluido correctamente, hacédmelo saber por [e-mail](mailto:ignaciovallesoriola@gmail.com) y lo editaré como se pida.  También se agradecería la comunicación de la detección de cualquier error.
 
 ___________
 
