@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Libros
 
-You can use the [editor on GitHub](https://github.com/igvaori/igvaori.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hola soy **Ignacio Vallés Oriola**, físico y profesor jubilado de Matemáticas en educación secundaria.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El material que aquí aparece es un conjunto de apuntes personales, que comparto gratuitamente en la red, basados en mi experiencia como profesor, varios textos citados en los documentos y webs de internet. Si hay algún contenido que no he incluido correctamente, hacédmelo saber por e-mail y lo editaré como se pida.  También se agradecería la comunicación de la detección de cualquier error.
 
-### Markdown
+___________
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Álgebra Lineal y Geometría (avanzadas) para Bachillerato.
 
-```markdown
-Syntax highlighted code block
+![](https://github.com/igvaori/algebra-geometria/blob/master/IMPRENTA/muestra.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+El libro, en sus más de 500 páginas, recoge el temario de álgebra y geometría de matemáticas de segundo de bachillerato. Incluye temas de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagage matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
 
-- Bulleted
-- List
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/algebra-geometria/raw/master/ALGEBRA-LINEAL-Y-GEOMETRIA-A5.pdf)
 
-1. Numbered
-2. List
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/algebra-geometria)
 
-**Bold** and _Italic_ and `Code` text
+__________
 
-[Link](url) and ![Image](src)
-```
+## Cálculo Infinitesimal (avanzado) para Bachillerato.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](https://github.com/igvaori/calculo-infinitesimal/blob/master/IMPRENTA/muestra.jpg)
 
-### Jekyll Themes
+El libro recoge el temario actual de matemáticas de ciencias en su parte de Cálculo Diferencial e Integral del último curso de bachillerato. Incluye algunos temas extra de interés para alumnos que vayan a cursar carreras que necesiten mayor contenido matemático. También se incluye una amplia cantidad de ejercicios resueltos y propuestos con solución. Son unas 400 páginas en A4 y sobre 500 en A5.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/igvaori/igvaori.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Descárgate el libro en A-4 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho.pdf)
 
-### Support or Contact
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho-A5.pdf)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/calculo-infinitesimal)
+____________
+
+## En breve
+
+   ### Físca General 
+
