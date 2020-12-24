@@ -1,4 +1,4 @@
-# MATEMÁTICAS
+
 
 Hola soy **Ignacio Vallés Oriola**, físico y profesor jubilado de Matemáticas en educación secundaria.
 
@@ -10,6 +10,7 @@ Un millón de gracias a Maria Balos por su diseños de las portadas, a Iván por
 
 ___________
 
+# MATEMÁTICAS
 
 ## Álgebra Lineal y Geometría (avanzadas) para Bachillerato.
 
