@@ -1,10 +1,14 @@
+Hola (mundo) soy **Ignacio Vallés Oriola**, físico y profesor jubilado de Matemáticas en educación secundaria.
 
+El material que aquí aparece es un conjunto de apuntes personales, que comparto gratuitamente en la red, basados en mi experiencia como profesor, varios textos citados en los documentos y documentación encontrada en la red. Si hay algún contenido que no he incluido correctamente, hacédmelo saber por [e-mail](mailto:ignaciovallesoriola@gmail.com) y lo editaré como se pida.  También se agradecería la comunicación de la detección de cualquier error.
 
-Hola soy **Ignacio Vallés Oriola**, físico y profesor jubilado de Matemáticas en educación secundaria.
+El objetivo de estos libro (colecciones  de apuntes) no es otro que intentar ser de ayuda para los alumnos que cursan segundo de bachillerato y desean ampliar sus conocimientos matemáticos de cara al próximo curso universitario porque van a necesitar de más matemáticas.
 
-El material que aquí aparece es un conjunto de apuntes personales, que comparto gratuitamente en la red, basados en mi experiencia como profesor, varios textos citados en los documentos y webs de internet. Si hay algún contenido que no he incluido correctamente, hacédmelo saber por [e-mail](mailto:ignaciovallesoriola@gmail.com) y lo editaré como se pida.  También se agradecería la comunicación de la detección de cualquier error.
+Ambos *Calculo Infinitesimal*  y *Álgebra Lineal y Geometría* cubren los objetivos de un curso de matemáticas II de bachillerato en la Comunidad Valenciana a fecha de 2020 y ambos llevan unos temas de ampliación para los futuros estudios universitarios. Espero que sean de utilidad para alguien.
 
-Si hay alguien ineresado en las portadas, las encontraréis en los reposiorios de cada libro, en las carpetas *imprenta*.
+Ahora ando preparando algunas cosas de **Física**, base, dome en mis antiguos apuntes, textos de regencia y, como no, lo que voy encontrando en la web. A medida que vaya acabando cosas las iré colgando aquí por si le pueden servir a alguien.
+
+Si se tiene interés en las portadas, las encontraréis en los repositorios de cada libro, en las carpetas *imprenta*.
 
 Un millón de gracias a Maria Balos por su diseños de las portadas, a Iván por la confección de esta página, a David y Josep por su ayuda con la física (la mía anda ya muy oxidada) y a Reme, por su enorme paciencia.
 
