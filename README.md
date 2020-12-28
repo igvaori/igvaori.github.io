@@ -4,7 +4,7 @@ El material que aquí aparece es un conjunto de apuntes personales, que comparto
 
 El objetivo de estos libros (colecciones de apuntes) no es otro que intentar ser de ayuda para los alumnos que cursan segundo de bachillerato. Asimismo, puede ser un recurso a mano de los que desean ampliar sus conocimientos matemáticos de cara al próximo curso universitario, ya que van a necesitar de unas buenas bases matemáticas.
 
-Ambos *Calculo Infinitesimal*  y *Álgebra Lineal y Geometría* cubren los objetivos de un curso de matemáticas II de bachillerato en la Comunidad Valenciana a fecha de 2020 y ambos llevan unos temas de ampliación para los futuros estudios universitarios,, como se explica en los *read.me* de los repositorios a los que conducen los links *fuentes* en cada caso. Espero que sean de utilidad para alguien.
+Ambos *Calculo Infinitesimal*  y *Álgebra Lineal y Geometría* cubren los objetivos de un curso de matemáticas II de bachillerato en la Comunidad Valenciana a fecha de 2020 y ambos llevan unos temas de ampliación para los futuros estudios universitarios, como se explica en los *read.me* de los repositorios a los que conducen los links *fuentes* en cada caso. Espero que sean de utilidad para alguien.
 
 Ahora ando preparando algunas cosas de **Física**, basándome en mis antiguos apuntes, textos de referencia y, como no, lo que voy encontrando en la web. A medida que vaya acabando cosas las iré colgando aquí por si le pueden servir a alguien.
 
