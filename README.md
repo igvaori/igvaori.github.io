@@ -50,3 +50,7 @@ ____________
 
 PRÓXIMAMENTE
 
+
+<!---
+El propósito de este libro (conjunto de apuntes) no es otro que refrescar mis recuerdos de la carrero, por ello empiezo por *física general* e iré añadiendo otros. Me decido a compartirlo por si le es útil a alguien.
+-->
