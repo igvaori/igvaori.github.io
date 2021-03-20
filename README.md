@@ -50,14 +50,17 @@ ____________
 
 ![](https://github.com/igvaori/Fisica-General/blob/master/IMPRENTA/portadafisicageneral.png?raw=true)
 
+
+![]https://github.com/igvaori/Fisica-General/blob/Default/imagenes/IMPRENTA/portadafisicageneral.png
+
+
 Dejo aquí mis apuntes de física general de primero de carrera de la facultad de física de la universidad de Valencia de hace más de 40 años (1978), pasados a límpio en latex.
 
 No les tengo especial cariño y tal vez, en en futuro, los implemente. Lo he hecho solo para regrescar mis conocimientos básicos tanto tiempo olvidados pero, si a alguien le son de utilidad puede darle el uso que cnsidere oportuno.
 
 Descárgate el libro en A-4 [aquí](https://github.com/igvaori/Fisica-General/raw/master/FISICA GENERAL-A4_compressed.pdf?raw=true)
 
-                                 (https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho.pdf?raw=true)
-
+                               
 Descárgate el libro en A-5 [aquí](https://github.com/igvaori/Fisica-General/raw/master/FISICA GENERAL - A5_compressed.pdf?raw=true)
 
 Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Fisica-General)
