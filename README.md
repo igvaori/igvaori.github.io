@@ -48,9 +48,17 @@ ____________
 
 ### Físca General 
 
-PRÓXIMAMENTE
+![](https://github.com/igvaori/calculo-infinitesimal/blob/master/IMPRENTA/muestra.jpg?raw=true)
+
+Dejo aquí mis apuntes de física general de primero de carrera de la facultad de física de la universidad de Valencia de hace más de 40 años (1978), pasados a límpio en latex.
+
+No les tengo especial cariño y tal vez, en en futuro, los implemente. Lo he hecho solo para regrescar mis conocimientos básicos tanto tiempo olvidados pero, si a alguien le son de utilidad puede darle el uso que cnsidere oportuno.
+
+Descárgate el libro en A-4 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho.pdf?raw=true)
+
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho-A5.pdf?raw=true)
+
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/calculo-infinitesimal)
 
 
-<!---
-El propósito de este libro (conjunto de apuntes) no es otro que refrescar mis recuerdos de la carrero, por ello empiezo por *física general* e iré añadiendo otros. Me decido a compartirlo por si le es útil a alguien.
--->
+
