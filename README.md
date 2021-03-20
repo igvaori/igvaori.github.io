@@ -51,7 +51,7 @@ ____________
 ![](https://github.com/igvaori/Fisica-General/blob/master/IMPRENTA/portadafisicageneral.png?raw=true)
 
 
-![]https://github.com/igvaori/Fisica-General/blob/Default/imagenes/IMPRENTA/portadafisicageneral.png
+![](https://github.com/igvaori/Fisica-General/blob/Default/imagenes/IMPRENTA/portadafisicageneral.png?raw=true)
 
 
 Dejo aquí mis apuntes de física general de primero de carrera de la facultad de física de la universidad de Valencia de hace más de 40 años (1978), pasados a límpio en latex.
