@@ -56,7 +56,7 @@ ____________
 
 Dejo aquí mis apuntes de física general de primero de carrera de la facultad de física de la universidad de Valencia de hace más de 40 años (1978), pasados a límpio en latex.
 
-No les tengo especial cariño y tal vez, en en futuro, los implemente. Lo he hecho solo para regrescar mis conocimientos básicos tanto tiempo olvidados pero, si a alguien le son de utilidad puede darle el uso que cnsidere oportuno.
+No les tengo especial cariño y tal vez, en en futuro, los implemente. Lo he hecho solo para refrescar mis conocimientos básicos tanto tiempo olvidados pero, si a alguien le son de utilidad puede darle el uso que considere oportuno.
 
 Descárgate el libro en A-4 [aquí](https://github.com/igvaori/Fisica-General/raw/Default/FISICA-GENERAL-A4_compressed.pdf?raw=true)
                                   
