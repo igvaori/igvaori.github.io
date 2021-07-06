@@ -4,9 +4,9 @@ El material que aquí aparece es un conjunto de apuntes personales, que comparto
 
 El objetivo de estos libros (colecciones de apuntes) no es otro que intentar ser de ayuda para los alumnos que cursan segundo de bachillerato. Asimismo, puede ser un recurso a mano de los que desean ampliar sus conocimientos matemáticos de cara al próximo curso universitario, ya que van a necesitar de unas buenas bases matemáticas.
 
-Ambos *Calculo Infinitesimal*  y *Álgebra Lineal y Geometría* cubren los objetivos de un curso de matemáticas II de bachillerato en la Comunidad Valenciana a fecha de 2020 y ambos llevan unos temas de ampliación para los futuros estudios universitarios, como se explica en los *read.me* de los repositorios a los que conducen los links *fuentes* en cada caso. Espero que sean de utilidad para alguien.
+*Calculo Infinitesimal*  , *Álgebra Lineal y Geometría*  y *Estadística* cubren los objetivos de un curso de matemáticas II de bachillerato en la Comunidad Valenciana a fecha de 2020 y ambos llevan unos temas de ampliación para los futuros estudios universitarios, como se explica en los *read.me* de los repositorios a los que conducen los links *fuentes* en cada caso. Espero que sean de utilidad para alguien.
 
-Ahora ando preparando algunas cosas de **Física**, basándome en mis antiguos apuntes, textos de referencia y, como no, lo que voy encontrando en la web. A medida que vaya acabando cosas las iré colgando aquí por si le pueden servir a alguien.
+Por lo que respecta a **Física**, se trata de la puesta a límpio de en mis antiguos apuntes de primero de carrera. A medida que vaya acabando cosas las iré colgando aquí por si le pueden servir a alguien.
 
 Si se tiene interés en las portadas, las encontraréis en los repositorios de cada libro, en las carpetas *imprenta*.
 
@@ -43,10 +43,30 @@ Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/cal
 
 ____________
 
+## Estadística (avanzada) para Bachillerato.
+
+![](https://github.com/igvaori/Estadistica/blob/main/IMPRENTA/muestraF.jpg?raw=true)
+
+
+El libro, en sus  344 páginas, recoge el temario de estadística de matemáticas de segundo de bachillerato. Incluye apartados de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagaje matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
+
+El libro está hecho en latex A4 - 12pt pensado para su impresión en A5 o 17cm x 24 cm.
+
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/Estadistica/raw/master/PROBABILIDADyESTADISTICA-A4-comprimido.pdf?raw=true)
+
+también [aquí](https://github.com/igvaori/Estadistica/blob/main/PROBABILIDADyESTADISTICA-A4-comprimido.pdf)
+
+
+
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Estadistica)
+
+__________
+
 
 # FÍSICA
 
 ### Física General 
+
 
 ![](https://github.com/igvaori/Fisica-General/blob/master/IMPRENTA/portadafisicageneral.png?raw=true)
 
@@ -64,6 +84,3 @@ Descárgate el libro en A-4 [aquí](https://github.com/igvaori/Fisica-General/ra
 Descárgate el libro en A-5 [aquí](https://github.com/igvaori/Fisica-General/raw/Default/FISICA-GENERAL-A5_compressed.pdf?raw=true)
 
 Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Fisica-General)
-
-
-
