@@ -59,6 +59,22 @@ Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Est
 __________
 
 
+## Programación Lineal (avanzada) para Bachillerato.
+
+![](https://github.com/igvaori/Programacion-Lineal/blob/main/IMPRENTA/muestraF.jpg?raw=true)
+
+
+El libro, en sus  70 páginas, recoge el temario de programación lineal de matemáticas de segundo de bachillerato. Incluye apartados de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagaje matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
+
+El libro está hecho en latex A4, pensado para su impresión en A5 o 17cm x 24 cm.
+
+Descárgate el libro para imprimir en A-5 o 17x24 [aquí](https://github.com/igvaori/Programacion-Lineal/blob/main/PROGRAMACION-LINEAL-A5.pdf)
+
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Programacion-Lineal)
+
+__________
+
+
 # FÍSICA
 
 ### Física General 
