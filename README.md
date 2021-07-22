@@ -61,7 +61,7 @@ __________
 
 ## Programación Lineal (avanzada) para Bachillerato.
 
-![](https://github.com/igvaori/Programacion-Lineal/blob/main/IMPRENTA/muestraF.jpg?raw=true)
+![](https://github.com/igvaori/Programacion-Lineal/blob/main/IMPRENTA/muestra.jpg?raw=true)
 
 
 El libro, en sus  70 páginas, recoge el temario de programación lineal de matemáticas de segundo de bachillerato. Incluye apartados de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagaje matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
