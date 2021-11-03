@@ -108,4 +108,15 @@ Las fuentes, 4 documentos y uno de apéndices están en 'pages', de mac. Clic [a
 
 Podéis descargar el pdf (9.4MB, din A-4) desde [aquí](https://github.com/igvaori/Grupos-de-Lie/blob/main/GRUPOS-DE-LIE.pdf?raw=true)
 
+### Mecánica Teórica. Conceptos clave.
+
+![](https://github.com/igvaori/MecanicaTeorica/blob/main/muestramecteor.jpg?raw=true)
+
+
+Apuntes del video curso del mismo nombre de [Javier García](https://www.youtube.com/c/JavierGarcia110)
+
+Descárgate las fuentes en latex:  Clic [aquí](https://github.com/igvaori/MecanicaTeorica) para descargarlos.
+
+Podéis descargar el pdf (12MB, din A-4) desde [aquí](https://github.com/igvaori/MecanicaTeorica/blob/main/MecanicaTeorica_compressed.pdf?raw=true)
+
 
