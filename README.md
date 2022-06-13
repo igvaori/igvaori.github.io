@@ -59,21 +59,6 @@ Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Est
 __________
 
 
-## Programación Lineal (avanzada) para Bachillerato.
-
-![](https://github.com/igvaori/Programacion-Lineal/blob/main/IMPRENTA/muestra.jpg?raw=true)
-
-
-El libro, en sus  70 páginas, recoge el temario de programación lineal de matemáticas de segundo de bachillerato. Incluye apartados de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagaje matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
-
-El libro está hecho en latex A4, pensado para su impresión en A5 o 17cm x 24 cm.
-
-Descárgate el libro para imprimir en A-5 o 17x24 [aquí](https://github.com/igvaori/Programacion-Lineal/blob/main/PROGRAMACION-LINEAL-A5.pdf)
-
-Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Programacion-Lineal)
-
-__________
-
 ## Ampliación de Matemáticas: del Bachillerato a la Facultad.
 
 ![](https://github.com/igvaori/Amplia-Mates/blob/main/ampl-mates.png?raw=true)
@@ -87,6 +72,22 @@ Descárgate el libro para imprimir en 17x24 [aquí](https://github.com/igvaori/A
 
 
 Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Amplia-Mates)
+
+__________
+
+
+## Precálculo: matemáticas para primero de bachillerato.
+
+![](https://github.com/igvaori/precalculo/blob/main/precalc.png?raw=true)
+
+
+Este libro, en sus  440 páginas, contiene el temario de matemáticas para primero de bachillerato, Precálculo: Aritmética, Álgebra, Trigonometría y Complejos, Geometría Analitica y Cónicas.
+
+
+Descárgate el libro para imprimir en 17x24 [aquí](https://github.com/igvaori/precalculo/blob/main/!Precalculo-comprimido-24MB.pdf)
+
+
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/precalculo)
 
 __________
 
