@@ -91,22 +91,6 @@ Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Amp
 __________
 
 
-## Precálculo: matemáticas para primero de bachillerato.
-
-![](https://github.com/igvaori/Amplia-Mates/blob/main/ampl-mates.png?raw=true)
-
-
-Este libro, en sus  180 páginas, está pensado como introducción de temas nuevos que se verán en los estudios superiores de algunas carrereas de ciencias, se puede considerar como un 'divertimento' para el verano antes del acceso a la Universidad.
-
-Lo doy por no acabado y abierto, hay temas que se podrían extender/comprimir y otros que deberían aparecer/desaperecer. Si a alguien le es de utilidad será un verdadero placer.
-
-Descárgate el libro para imprimir en 17x24 [aquí](https://github.com/igvaori/Amplia-Mates/blob/main/!Mates-Ampliadas.pdf)
-
-
-Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Amplia-Mates)
-
-__________
-
 
 # FÍSICA
 
