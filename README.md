@@ -6,7 +6,7 @@ El objetivo de estos libros (colecciones de apuntes) no es otro que intentar ser
 
 *Calculo Infinitesimal*  , *Álgebra Lineal y Geometría*  y *Estadística* cubren los objetivos de un curso de matemáticas II de bachillerato en la Comunidad Valenciana a fecha de 2020 y ambos llevan unos temas de ampliación para los futuros estudios universitarios, como se explica en los *read.me* de los repositorios a los que conducen los links *fuentes* en cada caso. Espero que sean de utilidad para alguien.
 
-Por lo que respecta a **Física**, se trata de la puesta a límpio de en mis antiguos apuntes de primero de carrera. A medida que vaya acabando cosas las iré colgando aquí por si le pueden servir a alguien.
+Iré añadiendo más repositorios a medida que los vaya haciendo.
 
 Si se tiene interés en las portadas, las encontraréis en los repositorios de cada libro, en las carpetas *imprenta*.
 
@@ -97,23 +97,7 @@ __________
 
 ### Física General 
 
-
-![](https://github.com/igvaori/Fisica-General/blob/master/IMPRENTA/portadafisicageneral.png?raw=true)
-
-
-![](https://github.com/igvaori/Fisica-General/blob/Default/imagenes/IMPRENTA/portadafisicageneral.png?raw=true)
-
-
-Dejo aquí mis apuntes de física general de primero de carrera de la facultad de física de la universidad de Valencia de hace más de 40 años (1978), pasados a límpio en latex.
-
-No les tengo especial cariño y tal vez, en en futuro, los implemente. Lo he hecho solo para refrescar mis conocimientos básicos tanto tiempo olvidados pero, si a alguien le son de utilidad puede darle el uso que considere oportuno.
-
-Descárgate el libro en A-4 [aquí](https://github.com/igvaori/Fisica-General/raw/Default/FISICA-GENERAL-A4_compressed.pdf?raw=true)
-                                  
-                               
-Descárgate el libro en A-5 [aquí](https://github.com/igvaori/Fisica-General/raw/Default/FISICA-GENERAL-A5_compressed.pdf?raw=true)
-
-Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Fisica-General)
+Próximamente.
 
 
 ### Grupos de Lie (para físicos)
